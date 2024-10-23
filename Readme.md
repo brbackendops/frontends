@@ -1,7 +1,7 @@
 # Front End Projects
 
 * [X]  react
-  * [X]  [sheets ](https://github.com/brbackendops/frontends/tree/main/react/tour%20plans)like excel With Redux
+  * [X]  [sheets ](https://github.com/brbackendops/frontends/tree/main/react/sheets)like excel With Redux
   * [X]  [project management](https://github.com/brbackendops/frontends/tree/main/react/project_management) with React-Context , Options for uploading photo & creating , updating , etc
   * [X]  [contact management](https://github.com/brbackendops/frontends/tree/main/react/contact_management) With Internal State , Options for uploading photo & updating the contact
   * [X]  [tour planner](https://github.com/brbackendops/frontends/tree/main/react/tour%20plans) with React-Context-API
