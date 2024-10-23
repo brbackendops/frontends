@@ -1,0 +1,53 @@
+{
+    "projects": [{
+            "id": 1,
+            "name": "Johnson - Kutch",
+            "description": "Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis qui modi qui.",
+            "imageUrl": "/images/placeimg_500_300_arch1.jpg",
+            "contractTypeId": 3,
+            "contractSignedOn": "2013-08-04T22:39:41.473Z",
+            "budget": 54637,
+            "isActive": false
+        },
+        {
+            "id": 2,
+            "name": "Dillesik LLCs",
+            "description": "Re-contextualized dynamic moratorium. Aut nulla soluta numquam qui dolor architecto et facere dolores.",
+            "imageUrl": "/images/placeimg_500_300_arch2.jpg",
+            "contractTypeId": 6,
+            "contractSignedOn": "2016-06-26T18:24:01.706Z",
+            "budget": 29729,
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Purdy, Keeling and Smithams",
+            "description": "Innovative 6th generation model. Perferendis libero qui iusto et ullam cum sint molestias vel.",
+            "imageUrl": "/images/placeimg_500_300_arch3.jpg",
+            "contractTypeId": 4,
+            "contractSignedOn": "2013-05-26T01:10:42.344Z",
+            "budget": 45660,
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Kreiger - Waelchis",
+            "description": "Managed logistical migration. Qui quod praesentium accusamus eos hic non error modi et.",
+            "imageUrl": "/images/placeimg_500_300_arch4.jpg",
+            "contractTypeId": 2,
+            "contractSignedOn": "2009-12-18T21:46:47.944Z",
+            "budget": 81188,
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Crona Inc",
+            "description": "Monitored explicit methodology. Rem quos maxime amet autem beatae quisquam excepturi sint velit.",
+            "imageUrl": "/images/placeimg_500_300_arch5.jpg",
+            "contractTypeId": 1,
+            "contractSignedOn": "2016-11-14T19:19:53.624Z",
+            "budget": 31350,
+            "isActive": true
+        }
+    ]
+}

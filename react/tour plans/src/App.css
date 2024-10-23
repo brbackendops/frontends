@@ -1,0 +1,49 @@
+.App {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.head {
+  width: 100%;
+  height: 150px;
+}
+
+.header {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: .5px solid #ccc;
+}
+
+.border-in {
+  width: 100%;
+  height: 100%;
+  border: 15px solid greenyellow;
+}
+
+.header > h1 {
+  margin: 0;
+  font-size: 3.8vw;
+}
+
+.header > h1 {
+  margin: 0;
+  font-size: 3.8vw;
+}
+
+.header > p {
+  margin: 15px;
+  font-size: 3vw;
+}
+
+.App > main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: calc(100% - 90px);
+}

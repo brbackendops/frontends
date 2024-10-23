@@ -1,0 +1,25 @@
+.card-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 1px solid black; */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    background-color: #FBFBFB;
+    padding: 8px;
+    margin-bottom: 4px;
+}
+.card-settings{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 55px;
+    height: 30px;
+}
+
+.card-del {
+    cursor: pointer;
+}
+
+.card-update {
+    cursor: pointer;
+}

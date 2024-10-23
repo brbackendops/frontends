@@ -1,0 +1,15 @@
+.card-box{
+    padding: 8px;
+    color: white;
+    border-bottom: 1px solid yellow;
+    margin-bottom: 4px;
+}
+
+.card-box > h1 {
+    position: relative;
+    list-style: none;
+    left:15px;
+    font-size: 2rem;
+    font-weight: 800;
+    cursor: pointer;
+}

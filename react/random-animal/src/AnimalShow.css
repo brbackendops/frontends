@@ -1,0 +1,12 @@
+.animal-card {
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    height: 150px;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+.heart {
+    transition: 0.7 ease-in-out;
+}

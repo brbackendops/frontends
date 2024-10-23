@@ -1,0 +1,13 @@
+.main-f {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-grp{
+    display: flex;
+    flex-direction: column;
+}

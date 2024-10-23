@@ -1,0 +1,48 @@
+.main-card {
+    width: 100%;
+    height: 100%;
+    padding: 25px;
+}
+
+.main-card h1 {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.f-form {
+    padding: 4px;
+}
+
+.f-title {
+    display: flex;
+    padding: 2px;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.f-title label {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bold;
+    word-spacing: normal;
+    text-indent: 1px;
+    letter-spacing: 1px;
+}
+.f-title input {
+    width: 200px;
+    padding: 4px;
+}
+
+.f-btn {
+    width: 100px;
+    background-color: #0d6efd;
+    border: none;
+    height: 32px;
+    padding: 4px;
+    outline: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.f-btn:active {
+    transition: all 0.5 ease-in-out;
+    outline: auto;
+}

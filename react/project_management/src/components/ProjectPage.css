@@ -1,0 +1,23 @@
+.main-page {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+
+.side {
+    width: auto;
+    height: 100%;
+}
+
+.main-body{
+    height: 100%;
+    width: 100%;
+}
+
+.list-transition-enter-active, .list-transition-appear-active {
+    transition: all 5s ease-in-out;
+}
+
+.list-transition-exit-active {
+    transition: all 5s ease-in-out;
+}

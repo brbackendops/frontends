@@ -1,0 +1,27 @@
+.form-main {
+
+    width: 100%;
+    height: 40px;
+}
+
+.form-in {
+    display: flex;
+    padding: 4px;
+    width: 100%;
+    height: 100%;
+}
+
+.form-ctrl-in {
+    flex: .8;
+    margin-right: 3px;
+    outline: none;
+}
+
+input[type="text"].form-ctrl-in::placeholder {
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 3px;
+}
+
+.form-ctrl-sbt {
+    flex: .2;
+}

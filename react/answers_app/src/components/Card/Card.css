@@ -1,0 +1,42 @@
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 12px;
+    left: 12px;
+    width: 400px;
+    height: 350px;
+    background-color: white;
+    margin-bottom: 12px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.card p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+
+.active {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 12px;
+    left: 12px;
+    width: 400px;
+    height: 350px;
+    background-color: white;
+    margin-bottom: 12px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border-radius: 15px;
+    cursor: pointer;    
+    background-color: greenyellow;
+    color: white;
+    font-weight: 700;
+    font-size: 3vw;
+}

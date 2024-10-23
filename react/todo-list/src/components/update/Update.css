@@ -1,0 +1,24 @@
+.update-box {
+    position: absolute;
+    width: 350px;
+    height: 280px;
+    background-color: #FBFBFB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    top: 200px;
+    left: 50px;
+    z-index: 1;
+}
+
+.update-box > h2 {
+    position: relative;
+    bottom: 20px;
+}
+
+.update-tool > input {
+    padding: 8px;
+    margin-right: 4px;
+}

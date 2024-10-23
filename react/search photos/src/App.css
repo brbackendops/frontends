@@ -1,0 +1,9 @@
+.app {
+    position: relative;
+    top: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    width: calc(100% - 50%);
+    height: 800px;
+    overflow-y: scroll;
+}

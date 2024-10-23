@@ -1,0 +1,22 @@
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 220px;
+    height: 80px;
+    background-color: antiquewhite;
+    margin-top: 8px;
+    margin-left: 13px;
+}
+
+.card-value {
+    margin: 30px;
+}
+
+.card > p {
+    margin-left: 5px;
+}
+
+.card > input {
+    margin-left: 5px;
+}
